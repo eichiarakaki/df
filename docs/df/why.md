@@ -1,0 +1,1 @@
+df (formerly Aegis Fetcher) was implemented due to the need to collect data from a platform. It was originally built inside Aegis, structured to be compatible with it, but was later split out into its own standalone repository since it doesn't depend on any Aegis-specific orchestration - it only needs a data directory and a YAML config of its own.
